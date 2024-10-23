@@ -6,7 +6,7 @@ subtitle: Intel Labs. Boston, MA, USA.
 
 profile:
   align: right
-  image: alex_hankin_headshot_resized.jpg
+  image: prof_pic.JPEG
   address: >
     <a href="mailto:alexander.hankin@intel.com">Email</a>
 
