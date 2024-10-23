@@ -17,4 +17,4 @@ Alex is a Research Scientist in the Strategic CAD Lab in the IP Design and Platf
 
 Alex's research interests lie in novel modeling, analysis, and optimization methodologies for emerging computer architectures, systems, and technologies. He has worked on topics such as on-chip non-volatile memory, advanced thermal hotspots, ion trap quantum computers, and microservices. 
 
-Click to view his [Curriculum Vitae (PDF)](assets/pdf/CV_Hankin_8-8-24 (1).pdf). 
+Click to view his [Curriculum Vitae (PDF)](assets/pdf/CV_Oct_2024.pdf). 
