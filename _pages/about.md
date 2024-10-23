@@ -18,4 +18,4 @@ Alex is a Research Scientist in the Strategic CAD Lab (SCL) in the IP Design and
 
 Alex's research interests are in novel modeling and analysis methods for emerging computer architectures, systems, and technologies. He has done work on embedded non-volatile memories (eNVMs), advanced thermal hotspots, trapped-ion (TI) quantum architecture, and microservices. 
 
-Click to view [Curriculum Vitae (PDF)](assets/pdf/CV_May_2023.pdf). 
+Click to view [Curriculum Vitae (PDF)](assets/pdf/CV_Hankin_8-8-24 (1).pdf). 
